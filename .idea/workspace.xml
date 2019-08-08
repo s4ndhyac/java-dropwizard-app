@@ -2,42 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28ede443-94ce-45a3-9155-bfb8bcdc13d2" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dropwizard-test-app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dropwizard-test-app.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/dropwizard/DropwizardTestAppApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/dropwizard/DropwizardTestAppApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/dropwizard/DropwizardTestAppConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/dropwizard/DropwizardTestAppConfiguration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/dropwizard/core/Car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/dropwizard/core/CarAppearance.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/dropwizard/core/CarAppearanceHealth.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/dropwizard/db/CarAppearanceDAO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/dropwizard/db/CarDAO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/dropwizard/helpers/SerializationHelper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/dropwizard/resources/CarResource.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/dropwizard/resources/ResourcesConstants.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/dropwizard/views/CarView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/css/bootstrap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/css/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/img/app-bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/img/arrow1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/img/arrow2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/img/intro01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/img/intro02.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/img/intro03.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/img/item-01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/img/item-02.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/img/mobile.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/js/bootstrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/js/jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/js/smoothscroll.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/test/dropwizard/views/car/CarView.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/test/dropwizard/views/car/CarsView.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/test/dropwizard/views/car/CreateCarView.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/test/dropwizard/views/parts/header.ftl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/dropwizard/core/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/dropwizard/core/HelloWorld.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,14 +17,60 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="30">
-                <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-              </first_editor>
-              <second_editor />
+      <file leaf-file-name="HelloWorldTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com.test.dropwizard/core/HelloWorldTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#191#192#0" expanded="true" />
+                <element signature="e#235#236#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HelloWorldDAOTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com.test.dropwizard/db/HelloWorldDAOTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="555">
+              <caret line="37" selection-start-line="37" selection-end-line="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#943#944#0" expanded="true" />
+                <element signature="e#966#967#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HelloWorldResourceTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com.test.dropwizard/resources/HelloWorldResourceTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1725">
+              <caret line="115" column="21" selection-start-line="115" selection-start-column="21" selection-end-line="115" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HelloWorld.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/test/dropwizard/core/HelloWorld.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -77,13 +91,16 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/com/test/dropwizard/db/HelloWorldDAO.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/test/dropwizard/core/HelloWorld.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/test/dropwizard/DropwizardTestAppConfiguration.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/test/dropwizard/DropwizardTestAppApplication.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/test/dropwizard/resources/HelloWorldResource.java" />
         <option value="$PROJECT_DIR$/config.yml" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/main/java/com/test/dropwizard/core/HelloWorld.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com.test.dropwizard/db/HelloWorldDAOTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com.test.dropwizard/resources/HelloWorldResourceTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com.test.dropwizard/core/HelloWorldTest.java" />
       </list>
     </option>
   </component>
@@ -113,6 +130,89 @@
             <path>
               <item name="dropwizard-test-app" type="b2602c69:ProjectViewProjectNode" />
               <item name="dropwizard-test-app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dropwizard-test-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dropwizard-test-app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dropwizard-test-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dropwizard-test-app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dropwizard-test-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dropwizard-test-app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dropwizard-test-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dropwizard-test-app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="dropwizard" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dropwizard-test-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dropwizard-test-app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="dropwizard" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dropwizard-test-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dropwizard-test-app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dropwizard-test-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dropwizard-test-app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dropwizard-test-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dropwizard-test-app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com.test.dropwizard" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dropwizard-test-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dropwizard-test-app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com.test.dropwizard" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dropwizard-test-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dropwizard-test-app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com.test.dropwizard" type="462c0819:PsiDirectoryNode" />
+              <item name="db" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dropwizard-test-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dropwizard-test-app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com.test.dropwizard" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -227,6 +327,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
           <caret line="55" column="58" selection-start-line="55" selection-start-column="58" selection-end-line="55" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -325,13 +428,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/test/dropwizard/db/CarDAO.java" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="96" column="31" lean-forward="true" selection-start-line="96" selection-start-column="31" selection-end-line="96" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/test/dropwizard/core/Car.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/test/dropwizard/core/CarAppearanceHealth.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/test/dropwizard/core/CarAppearance.java" />
@@ -355,19 +451,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/test/dropwizard/core/HelloWorld.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="54" selection-start-line="12" selection-start-column="54" selection-end-line="12" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/test/dropwizard/resources/ResourcesConstants.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/test/dropwizard/helpers/SerializationHelper.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/test/dropwizard/DropwizardTestAppApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="575">
           <caret line="52" column="104" selection-start-line="52" selection-start-column="104" selection-end-line="52" selection-end-column="104" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -375,6 +467,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="30" column="34" lean-forward="true" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -399,6 +494,54 @@
             <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/test/dropwizard/core/HelloWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1725">
+          <caret line="115" column="21" selection-start-line="115" selection-start-column="21" selection-end-line="115" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com.test.dropwizard/resources/HelloWorldResourceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com.test.dropwizard/db/HelloWorldDAOTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#943#944#0" expanded="true" />
+            <element signature="e#966#967#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com.test.dropwizard/core/HelloWorldTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#191#192#0" expanded="true" />
+            <element signature="e#235#236#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
